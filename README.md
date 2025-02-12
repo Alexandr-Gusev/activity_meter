@@ -19,6 +19,6 @@ Options:
 
 ## Usage
 
-URL: https://<addr>:<port>
+URL: https://\<addr\>:\<port\>
 
 Authorization: user 1234
