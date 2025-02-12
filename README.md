@@ -5,6 +5,7 @@ A small tool for parental control of a PC.
 ## Installation
 
 Open HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+
 Add start pythonw path/to/main.py
 
 Options:
@@ -19,4 +20,5 @@ Options:
 ## Usage
 
 URL: https://<addr>:<port>
+
 Authorization: user 1234
