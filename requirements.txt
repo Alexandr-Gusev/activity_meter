@@ -1,0 +1,6 @@
+mouse
+keyboard
+aiohttp
+opencv-python
+pywin32
+pyopenssl

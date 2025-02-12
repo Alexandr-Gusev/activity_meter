@@ -1,0 +1,9 @@
+.vscode
+tmp
+
+__pycache__
+*.pyc
+
+data.json
+*.crt
+*.key
